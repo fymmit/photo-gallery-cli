@@ -1,0 +1,14 @@
+{
+  "name": "photo-gallery-cli",
+  "version": "1.0.0",
+  "description": "CLI tool for searching images from https://photos.timblo.us",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "files": ["src", "readme.md"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["meme"],
+  "author": "fymmit",
+  "license": "ISC"
+}
